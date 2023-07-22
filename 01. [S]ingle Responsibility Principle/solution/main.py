@@ -1,5 +1,5 @@
 from github.client import GithubClient
-from repository.parser import RepoParser
+from repositories.parser import RepoParser
 
 
 if __name__ == "__main__":
