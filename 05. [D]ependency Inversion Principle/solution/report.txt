@@ -1,0 +1,30 @@
+## REPOS 
+
+**ID: **620106742 **NAME: **automation-data_processing **STARS: **0
+ **ID: **441523689 **NAME: **beecrowd-programming **STARS: **0
+ **ID: **558131640 **NAME: **book-algorithms **STARS: **0
+ **ID: **632691319 **NAME: **book-design_patterns **STARS: **0
+ **ID: **435687410 **NAME: **book-golang **STARS: **0
+ **ID: **556003336 **NAME: **book-html5_css3 **STARS: **0
+ **ID: **469260009 **NAME: **book-mongodb **STARS: **0
+ **ID: **441772334 **NAME: **book-oop **STARS: **0
+ **ID: **482060009 **NAME: **book-statistics_for_data_science **STARS: **0
+ **ID: **583218785 **NAME: **course-algorithms **STARS: **0
+ **ID: **589785254 **NAME: **course-alura **STARS: **0
+ **ID: **582116088 **NAME: **course-apache_kafka **STARS: **0
+ **ID: **440917530 **NAME: **course-database **STARS: **0
+ **ID: **472567735 **NAME: **course-data_engineering **STARS: **0
+ **ID: **475611872 **NAME: **course-data_engineering_tools **STARS: **0
+ **ID: **446934340 **NAME: **course-golang **STARS: **0
+ **ID: **440896899 **NAME: **course-machine_learning **STARS: **0
+ **ID: **582701700 **NAME: **course-pyspark **STARS: **0
+ **ID: **445501829 **NAME: **course-python **STARS: **0
+ **ID: **599377388 **NAME: **course-python_solutions **STARS: **0
+ **ID: **669332116 **NAME: **course-solid **STARS: **0
+ **ID: **440918595 **NAME: **gawps **STARS: **2
+ **ID: **454980105 **NAME: **method-numerical_analysis **STARS: **1
+ **ID: **451345135 **NAME: **project-dashboard_spotify **STARS: **0
+ **ID: **583240885 **NAME: **project-particulate_transport_simulator **STARS: **1
+ **ID: **476078846 **NAME: **studies-git_github **STARS: **0
+ **ID: **669352841 **NAME: **studies-python **STARS: **0
+ **ID: **435611089 **NAME: **thiagoneye **STARS: **0
